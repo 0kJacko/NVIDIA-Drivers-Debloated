@@ -26,3 +26,5 @@ Select "Custom (Advanced)" and click on Next
 Select "Peform a clean installation" and click on Next and the installation will begin
 
 ![Screenshot_5](https://user-images.githubusercontent.com/97028842/147944170-e8cf729f-42bb-4f1f-9229-51809d972869.png)
+
+Your screen may flash and turn off during the installation, when the installation has completed you can close out of the installer 
