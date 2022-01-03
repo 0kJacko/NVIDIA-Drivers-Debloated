@@ -1,2 +1,2 @@
 # NVIDIA-Drivers-Debloated
-A collection of debloated nvidia drivers that will increase peformance while gaming
+A collection of nvidia drivers debloated and modded to increase peformance
