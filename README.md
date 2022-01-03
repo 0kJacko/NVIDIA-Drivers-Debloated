@@ -52,7 +52,8 @@ Open [Everything Search](https://www.voidtools.com/) and search for "NvTelemetry
 
 Open a notepad, paste the code below, save it as a .reg file and run it
 
-```Windows Registry Editor Version 5.00
+```
+Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers\Scheduler]
 "EnablePreemption"=dword:00000000
@@ -66,6 +67,8 @@ Open a notepad, paste the code below, save it as a .reg file and run it
 "Start"=dword:00000004
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\nvlddmkm\FTS]
-"EnableRID61684"=dword:00000001```
+"EnableRID61684"=dword:00000001
+
+```
 
 
