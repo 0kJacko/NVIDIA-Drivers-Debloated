@@ -22,3 +22,7 @@ Open the folder you just unzipped and run setup.exe then click "AGREE AND CONTIN
 Select "Custom (Advanced)" and click on Next
 
 ![Screenshot_4](https://user-images.githubusercontent.com/97028842/147943815-23b71096-0e1c-4335-b84a-1ec5880849ba.png)
+
+Select "Peform a clean installation" and click on Next and the installation will begin
+
+![Screenshot_5](https://user-images.githubusercontent.com/97028842/147944170-e8cf729f-42bb-4f1f-9229-51809d972869.png)
