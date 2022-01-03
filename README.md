@@ -8,7 +8,9 @@ A collection of NVIDIA drivers debloated and modded to increase peformance and p
 ★ Removed NVIDIA Telementry\
 ★ Removed Geforce Experience (It decreases peformance by alot as it is always recording your game)
 
-# Removing your current driver
+## Removing your current driver
+
+You can skip this step if you are on a clean install of windows with no graphics driver or if you are installing a new graphics card
 
 ## How to install the drivers
 
