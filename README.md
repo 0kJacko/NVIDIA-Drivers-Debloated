@@ -5,6 +5,6 @@ A collection of nvidia drivers debloated and modded to increase peformance and p
 
 ★ Debloated the drivers\
 ★ Added Support for unsupported cards\
-★ Removed NVIDIA Telementry\
+★ Removed NVIDIA Telementry
 
 ## How to install the drivers
