@@ -18,3 +18,7 @@ Open the folder you just unzipped and run setup.exe then click "AGREE AND CONTIN
 
 
 ![Screenshot_3](https://user-images.githubusercontent.com/97028842/147943303-a0efee2c-e344-4996-a636-6db666a73f1a.png)
+
+Select "Custom (Advanced)" and click on Next
+
+[Screenshot_4](https://user-images.githubusercontent.com/97028842/147943815-23b71096-0e1c-4335-b84a-1ec5880849ba.png)
