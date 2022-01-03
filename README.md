@@ -27,4 +27,8 @@ Select "Peform a clean installation" and click on Next and the installation will
 
 ![Screenshot_5](https://user-images.githubusercontent.com/97028842/147944170-e8cf729f-42bb-4f1f-9229-51809d972869.png)
 
-Your screen may flash and turn off during the installation, when the installation has completed you can close out of the installer 
+Your screen may flash and turn off during the installation, when the installation has completed you can close out of the installer
+
+Open [Everything Search](https://www.voidtools.com/) and search for "NvTelemetry64.dll" and delete all results that appear
+
+![Screenshot_8](https://user-images.githubusercontent.com/97028842/147944965-c2c28b76-9df9-43f5-b9bc-2d05e2932894.png)
