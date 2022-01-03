@@ -71,4 +71,9 @@ Windows Registry Editor Version 5.00
 
 ```
 
+Open NVIDIA Control Panel by right clicking on your desktop and selecting it and copy these settings in Manage 3D settings.
+
+![Screenshot_2](https://user-images.githubusercontent.com/97028842/147970591-f5cda49c-6888-4ea3-83f5-f1f52b94ddf9.png)
+![Screenshot_3](https://user-images.githubusercontent.com/97028842/147970596-daa2f939-c46a-4bd7-994b-648f34dc5cd8.png)
+![Screenshot_4](https://user-images.githubusercontent.com/97028842/147970598-64f8c6ef-00b8-465c-83a5-ddea8c58612c.png)
 
