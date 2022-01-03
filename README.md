@@ -11,3 +11,5 @@ A collection of nvidia drivers debloated and modded to increase peformance and p
 
 Unzip the driver with a program like 7zip or winrar
 ![Screenshot_2](https://user-images.githubusercontent.com/97028842/147942443-bff03397-44d4-47ef-9862-e4152b7dba2c.png)
+
+Open the folder you just unzipped and run setup.exe
