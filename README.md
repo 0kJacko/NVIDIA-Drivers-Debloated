@@ -3,7 +3,8 @@ A collection of nvidia drivers debloated and modded to increase peformance and p
 
 ## CHANGES 📋
 
-★ Debloated the drivers
-★ Added Support for unsupported cards
+★ Debloated the drivers\
+★ Added Support for unsupported cards\
+★ Removed NVIDIA Telementry\
 
 ## How to install the drivers
