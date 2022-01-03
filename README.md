@@ -34,3 +34,5 @@ Open [Everything Search](https://www.voidtools.com/) and search for "NvTelemetry
 ![Screenshot_8](https://user-images.githubusercontent.com/97028842/147944965-c2c28b76-9df9-43f5-b9bc-2d05e2932894.png)
 
 The installation process is now finished, you can tweak the driver with tools such as NvProfileInspector or just change your NVIDIA Control Panel Settings.
+
+The Driver can also be installed via NVCleanInstall but I am not currently offering a guide on how to do so.
