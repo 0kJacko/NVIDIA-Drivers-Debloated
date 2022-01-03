@@ -8,3 +8,5 @@ A collection of nvidia drivers debloated and modded to increase peformance and p
 ★ Removed NVIDIA Telementry
 
 ## How to install the drivers
+
+Unzip the driver with a program like 7zip or winrar
