@@ -10,7 +10,18 @@ A collection of NVIDIA drivers debloated and modded to increase peformance and p
 
 ## Removing your current driver
 
-You can skip this step if you are on a clean install of windows with no graphics driver or if you are installing a new graphics card
+You can skip this step if you are on a clean install of windows with no graphics driver or if you are installing a new graphics card.
+
+Enter safe mode by clicking win + r and typing msconfig then tick the safe mode box and reboot into safe mode and when you are booted into safe mode repeat this process but untick safe mode.
+
+Open [DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) and Select GPU on the right hand side of the program and then click Clean and restart.
+
+![Screenshot_1](https://user-images.githubusercontent.com/97028842/147969626-ae18dc13-6352-46ce-80d0-01a79d825c5a.png)
+
+
+Once your computer is restarted your current driver has been removed and you can move onto installing the custom driver.
+
+
 
 ## How to install the drivers
 
