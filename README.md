@@ -49,3 +49,23 @@ Open [Everything Search](https://www.voidtools.com/) and search for "NvTelemetry
 ![Screenshot_8](https://user-images.githubusercontent.com/97028842/147944965-c2c28b76-9df9-43f5-b9bc-2d05e2932894.png)
 
 ## Nvidia Driver Tweaks
+
+Open a notepad, paste the code below, save it as a .reg file and run it
+
+```Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers\Scheduler]
+"EnablePreemption"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\nvlddmkm]
+"DisablePreemption"=dword:00000001
+"DisableCudaContextPreemption"=dword:00000001
+"DisableWriteCombining"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\GpuEnergyDrv]
+"Start"=dword:00000004
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\nvlddmkm\FTS]
+"EnableRID61684"=dword:00000001```
+
+
